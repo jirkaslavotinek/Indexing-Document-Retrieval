@@ -1,6 +1,8 @@
 # Indexing-Document-Retrieval
 Homework for MI-DDW FIT CTU
 
+Implementation in MI-DDW Indexing & Document Retrieval.ipynb.
+
 CSV file description:
 - cos_sim_binary.csv
 - cos_sim_tf.csv
